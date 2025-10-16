@@ -1,0 +1,27 @@
+{
+    "algorithm": "tree",
+    "mse": 327992604943.96,
+    "r2_score": 0.9669,
+    "samples": [
+        {
+            "actual": 8746960.0,
+            "predicted": 9026669.0
+        },
+        {
+            "actual": 10812670.0,
+            "predicted": 11578591.0
+        },
+        {
+            "actual": 7072611.0,
+            "predicted": 6420690.0
+        },
+        {
+            "actual": 10766650.0,
+            "predicted": 11047023.0
+        },
+        {
+            "actual": 5036242.0,
+            "predicted": 5210910.0
+        }
+    ]
+}
