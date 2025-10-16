@@ -1,0 +1,6 @@
+---
+layout: default
+title: House Price Predictor
+description: A supervised learning project for predicting house prices using Linear Regression and Decision Tree models, powered by FastAPI, React, and Vite.
+theme: jekyll-theme-cayman
+---
